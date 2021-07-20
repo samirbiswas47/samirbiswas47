@@ -1,0 +1,15 @@
+main {
+  height: auto;
+}
+h1 {
+  padding: 1rem 0;
+}
+.rating span {
+  margin: 0.1rem;
+}
+.d-block {
+  height: 400px !important;
+}
+.navbar-brand {
+  width: 25%;
+}
